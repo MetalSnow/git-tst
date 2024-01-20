@@ -2,3 +2,4 @@ helllo world
 
 name:Aymane Saigou
 profession: developper
+skills: html css javascript reactjs expressjs mongoDB
